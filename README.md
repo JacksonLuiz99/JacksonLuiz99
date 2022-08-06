@@ -50,7 +50,7 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
 ## Meus dados no Github
 
 <!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonLuiz99_icons=true&theme=tokyonight)
 </span> -->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
