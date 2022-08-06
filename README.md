@@ -16,7 +16,6 @@
 
 </h4>
 
-
 ```
 Sou fascinado por computação e hoje estou me dedicando para me tornar um dev fullstack.
 ```
