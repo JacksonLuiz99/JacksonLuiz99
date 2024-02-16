@@ -25,7 +25,6 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
   - CSS3
   - JavaScript
   - Bootstrap
-  - jQuery
   - TypeScriptAJAX
   - ReactJS
   - NodeJS
@@ -44,8 +43,10 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
-- Sou graduado em Analise e Desenvolvimento de Sistemas. 💻
+- Graduado em Analise e Desenvolvimento de Sistemas. 💻
 
+- Pós Graduado em Desenvolvimento Front-End. 💻
+- 
 ## Meus dados no Github
 
 <!-- <span style="height ">
