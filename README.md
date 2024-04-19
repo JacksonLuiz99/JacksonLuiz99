@@ -1,6 +1,6 @@
 <h3 align="center">  <br>
 
-# Olá, sou o Jackson Luiz 👨‍💻
+# Olá Mundo, sou o Jackson Luiz 👨‍💻
 <br>
 
 </h3>
@@ -23,17 +23,13 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
 
   - HTML5
   - CSS3
-  - JavaScript
   - Bootstrap
-  - TypeScriptAJAX
-  - ReactJS
-  - NodeJS
+  - JavaScript
+  - -JQuery
   - PHP
-  - MongoDB
-  - SQL
+  - MySQL
+  - AJAX
   - GIT & GITHub
-  - APIs
-  - SEO
  
 
 ## Alguns fatos sobre mim 👨🏻‍💻
@@ -41,13 +37,14 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
 - Aluno da Rocketseat. [:link:]([https://linktr.ee/guiadevbrasil](https://app.rocketseat.com.br/dashboard))
 - Aluno da Udemy. [:link:](https://www.udemy.com/)
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
-
 - Graduado em Analise e Desenvolvimento de Sistemas. 💻
 
 - Pós Graduado em Desenvolvimento Front-End. 💻
-- 
-## Meus dados no Github
+  
+- Adoro conhecer coisas novas e trabalhar em grupo para obter novas experiências. 😄
+
+  
+## Meus dados no GitHub
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonLuiz99_icons=true&theme=tokyonight)
