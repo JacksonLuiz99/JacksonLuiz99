@@ -25,7 +25,7 @@ Sou fascinado por computação e hoje estou me dedicando para me tornar um dev f
   - CSS3
   - Bootstrap
   - JavaScript
-  - -JQuery
+  - JQuery
   - PHP
   - MySQL
   - AJAX
