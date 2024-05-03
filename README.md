@@ -19,17 +19,6 @@
 ```
 Sou fascinado por computação e hoje estou me dedicando para me tornar um dev fullstack.
 ```
-## Tecnologias que estou estudando atualmente 💻
-
-  - HTML5
-  - CSS3
-  - Bootstrap
-  - JavaScript
-  - JQuery
-  - PHP
-  - MySQL
-  - AJAX
-  - GIT & GITHub
 
 
  <h2><img height="32" title="NodeJS" alt="NodeJS" src="https://github.com/DIGOARTHUR/digoarthur/assets/59892368/01b5a690-a7d9-4d16-bd57-1aa10ef45c90"/>
